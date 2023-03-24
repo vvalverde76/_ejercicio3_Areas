@@ -8,9 +8,7 @@ public class Main {
         Area a1 = new Area();
         System.out.println("El area del cuadrado es = "+
                 a1.areaRectangulo(4f,5f));
-
-        Area a2 = new Area();
         System.out.println( "El area del circulo es = "+
-                a2.areaCirculo(6.77f));
+                a1.areaCirculo(6.77f));
     }
 }

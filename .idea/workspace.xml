@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b10dd4e0-a5d3-472d-9d19-08fac9395aeb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_ejercicio3_Areas.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adecco/modelo/Area.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adecco/presentacion/Main.java" afterDir="false" />
+    <list default="true" id="b10dd4e0-a5d3-472d-9d19-08fac9395aeb" name="Changes" comment="area circulo">
+      <change beforePath="$PROJECT_DIR$/src/com/adecco/presentacion/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adecco/presentacion/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +67,18 @@
       <option name="presentableId" value="Default" />
       <updated>1679654336152</updated>
     </task>
+    <task id="LOCAL-00001" summary="area circulo">
+      <created>1679656083446</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679656083446</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="area circulo" />
+    <option name="LAST_COMMIT_MESSAGE" value="area circulo" />
   </component>
 </project>
